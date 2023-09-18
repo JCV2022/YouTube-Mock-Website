@@ -52,6 +52,10 @@ If you do use Visual Studio Code as your code editor, install the extension Live
 
 ![](images/liveserver.png)
 
+If node.js isn't installed on your machine, download the LTS version through this link [nodejs.org/en](https://nodejs.org/en) and run the installation.exe file.
+
+Git was used for this project. Go to [git-scm.com/downloads](https://git-scm.com/downloads) and download git for your respective device. After downloading the file and running the installation exe found in your downloads folder, open Visual Studio Code and click on source control on the left hand bar with the project still open and click on 'initialize repository'. This allows you to keep track of changes you make to the code and also lets you push code to the GitHub repository without having to updating the repository manually. 
+
 ## Todo
 
 Make the thumbnails lead to the actual videos on the real YouTube website when clicked and the channel names and channel pictures lead to the uploader's actual channel on the real YouTube website. 
